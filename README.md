@@ -11,10 +11,10 @@
   <img align="center" alt="Joma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joma-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Joma-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/41153_vQ0Dysy0.png?width=676&height=676">
+  <img align="right" alt="Joma-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202305/338224_YS4HZrZh.png?width=676&height=676">
 </div>
   
-  ##
+  ##  
  
 <div> 
   <a href="https://www.youtube.com/channel/UCINgGqyN5CoRva4T1WKt0Dw"_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
