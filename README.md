@@ -1,4 +1,4 @@
-## Olá!! Me chamo João Lacerda, estudante de programação e amante de tecnologias.
+## Olá!! Me chamo João Lacerda, estudante de programação, amante de tecnologias e desenvolvedor back-end.
 <div>
   <a href="https://github.com/Jomavilla">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jomavilla&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
